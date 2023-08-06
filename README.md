@@ -1,6 +1,6 @@
 # KGW Media
 ## Introduction
-KGW Media is a YouTube clone streaming web application, which is developed using Rapid API and ReactJS. This streaming app can be used to interact with and watch any videos as it features Youtube v3 API. It also emphasizes a frontend repository. 
+KGW Media is a YouTube clone streaming web application, which is developed using Rapid API and ReactJS. This streaming app can be used to interact with and watch any videos as it features Youtube v3 API. It also emphasizes a front end repository. 
  
 ## Tech/Frameworks used
 - [ReactJS](https://react.dev/)
