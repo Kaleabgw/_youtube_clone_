@@ -31,7 +31,7 @@ This web application featured Youtube v3 API to get all the necessary YouTube da
 
 ## Deployment
 
-To access the deployed project, simply refer to this site -> http://localhost:3000/
+To access the deployed project, simply refer to this site -> https://kgwyoutubeclone.netlify.app
 
 
 
